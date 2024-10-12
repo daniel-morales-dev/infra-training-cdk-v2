@@ -1,0 +1,6 @@
+{
+  "test": {
+    "domainName": "dmorales-training-v2.alegra.com",
+    "certificateArn": "arn:aws:acm:us-east-1:147515533111:certificate/c5a81613-cce0-4151-b0e2-27dc9828b274"
+  }
+}

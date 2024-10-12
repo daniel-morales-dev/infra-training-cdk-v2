@@ -8,7 +8,8 @@
     "build": "tsc",
     "watch": "tsc -w",
     "test": "jest",
-    "cdk": "cdk"
+    "cdk": "cdk",
+    "deploy": "cdk deploy --profile alegra-training --context stage=$npm_config_stage"
   },
   "devDependencies": {
     "@types/jest": "^29.5.12",
